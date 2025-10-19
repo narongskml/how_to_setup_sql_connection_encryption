@@ -15,6 +15,7 @@
 ---
 
 ## 🧱 โครงสร้างโปรเจ็กต์
+```
 sqlconnencrypt/
 │
 ├── cert/
@@ -31,7 +32,7 @@ sqlconnencrypt/
 │ └── wireshark.md
 │
 └── README.md
-
+```
 
 ### 🧠 Key Takeaways
 
@@ -68,4 +69,5 @@ Client ต้อง trust certificate เพื่อเชื่อมต่อ
 
 🧑‍💻 Author: Narong Sungkhamalai
 📅 Updated: October 2025
+
 📂 License: MIT
