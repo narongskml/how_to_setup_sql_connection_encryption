@@ -63,7 +63,7 @@ Client ต้อง trust certificate เพื่อเชื่อมต่อ
 ### 📹 สำหรับผู้ชม YouTube
 
 ดูคลิปสาธิตแบบ Step-by-Step ได้ที่
-👉 YouTube: การเข้ารหัส SQL Server Connection Encryption
+👉 YouTube:  ([SQL Connection Encryption | เข้ารหัส การเชื่อมต่อ ฐานข้อมูล ให้ปลอดภัย](https://youtu.be/L19Y1t9yhXE))
 
 ----
 
@@ -71,3 +71,4 @@ Client ต้อง trust certificate เพื่อเชื่อมต่อ
 📅 Updated: October 2025
 
 📂 License: MIT
+
